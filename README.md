@@ -9,4 +9,3 @@
 • Create 2 Ec2 windows free tier instances.
 • Configure IIS server on both. Be sure you are configuring them on two different availability zones for achieving high availability.
 • Configuring a classic load balancer between those two instances with HTTP service port.
-Note: You can use one node same from Assignment 1 of IIS server.
