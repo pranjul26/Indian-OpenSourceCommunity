@@ -14,4 +14,7 @@
 
 •	Launch 1 EC2 Linux instance and configure MySQL/Mariadb server on it (use your choice for password and user names). 
 •	Launch 1 EC2 Linux instance and configure Wordpress Application server on it. 
+•	Use previously configured MySQL or Mariadb database server for connection with private IP address of instances.
+
+
 
