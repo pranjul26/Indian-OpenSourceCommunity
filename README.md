@@ -13,6 +13,5 @@
 # 3. 2-Tier Application - Wordpress and MySQL
 
 •	Launch 1 EC2 Linux instance and configure MySQL/Mariadb server on it (use your choice for password and user names). 
-
 •	Launch 1 EC2 Linux instance and configure Wordpress Application server on it. 
 
