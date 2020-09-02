@@ -16,5 +16,8 @@
 •	Launch 1 EC2 Linux instance and configure Wordpress Application server on it. 
 •	Use previously configured MySQL or Mariadb database server for connection with private IP address of instances.
 
+# 4. AWS CLI
+
+Access your AWS account from linux terminal or windows command prompt / power shell and perform following task. Launch one instance with one free tier AMI on a free tier instance type and take its remote access (ssh/remote access).
 
 
