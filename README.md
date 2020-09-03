@@ -20,4 +20,7 @@
 
 Access your AWS account from linux terminal or windows command prompt / power shell and perform following task. Launch one instance with one free tier AMI on a free tier instance type and take its remote access (ssh/remote access).
 
+# 5. Access different components of AWS using AWSCLI
+
+Create a 3G EBS volume and attach it to one running instance and create a 1GB partition on that and mount it on one directory no need to make /etc/fstab entry. Remember all this thing using AWS CLI and terminal only.
 
