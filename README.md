@@ -24,6 +24,6 @@ Access your AWS account from linux terminal or windows command prompt / power sh
 
 Create a 3G EBS volume and attach it to one running instance and create a 1GB partition on that and mount it on one directory no need to make /etc/fstab entry. Remember all this thing using AWS CLI and terminal only.
 
-# 6.
+# 6. IIS server on Windows server instance on Azure
 
 Launch one free flavor/machine type with windows server (instance) on GCP/Azure. Configure an IIS server with your Default web page once, then also try to change the Index.html page. 
